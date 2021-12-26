@@ -1,0 +1,18 @@
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\bin\Debug\Gene_Selection.exe.config
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\bin\Debug\Gene_Selection.exe
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\bin\Debug\Gene_Selection.pdb
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.Main.resources
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.Properties.Resources.resources
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.csproj.GenerateResource.Cache
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.exe
+c:\users\me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.pdb
+C:\Users\Me1988\documents\visual studio 2013\Projects\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.csprojResolveAssemblyReference.cache
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\bin\Debug\Gene_Selection.exe.config
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.exe
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.pdb
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.csprojResolveAssemblyReference.cache
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.Main.resources
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.Properties.Resources.resources
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\obj\Debug\Gene_Selection.csproj.GenerateResource.Cache
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\bin\Debug\Gene_Selection.exe
+V:\Desktop\Thesis\Gene_Selection\Gene_Selection\bin\Debug\Gene_Selection.pdb
